@@ -6,5 +6,4 @@ Notebooks version of the book [Eloquent JavaScript (3rd edition)](https://eloque
 
 To run these you have to install [IJavascript](https://github.com/n-riesco/ijavascript), a Javascript kernel for the Jupyter notebook. 
 
-Fernando Greve
-fgreve@gmail.com
+Fernando Greve <br> fgreve@gmail.com
