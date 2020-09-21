@@ -5,3 +5,6 @@ Notebooks version of the book [Eloquent JavaScript (3rd edition)](https://eloque
 - Chapter 5: Higher-Order Functions
 
 To run these you have to install [IJavascript](https://github.com/n-riesco/ijavascript), a Javascript kernel for the Jupyter notebook. 
+
+Fernando Greve
+fgreve@gmail.com
