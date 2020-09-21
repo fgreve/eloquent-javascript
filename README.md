@@ -1,6 +1,5 @@
 # Eloquent JavaScript Notebooks
-Notebooks version of the book Eloquent JavaScript (3rd edition).
-[https://eloquentjavascript.net/](https://eloquentjavascript.net/)
+Notebooks version of the book [Eloquent JavaScript (3rd edition)](https://eloquentjavascript.net/).
 
 - Chapter 5: Higher-Order Functions
 
